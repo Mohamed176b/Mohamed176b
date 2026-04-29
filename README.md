@@ -221,8 +221,6 @@
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Mohamed176b/Mohamed176b/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
-> ⚠️ **Note:** To activate the snake animation, follow [these setup instructions](https://github.com/Platane/snk) to add the GitHub Action to your profile repo.
-
 </div>
 
 ---
@@ -263,8 +261,4 @@
 <!--  FOOTER WAVE -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:0a3d62,100:0d0221&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=2000&color=7FFFD4&center=true&width=600&lines=%3E+%22The+best+way+to+predict+the+future+is+to+create+it.%22+—+Alan+Kay;%3E+Made+with+%E2%9D%A4%EF%B8%8F+by+Mohamed+Elshafey+%7C+%C2%A9+2025" alt="footer quote"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:0a3d62,100:0d0221&height=160&section=footer&text=%22The+best+way+to+predict+the+future+is+to+create+it.%22&fontSize=16&fontColor=7fffd4&fontAlignY=55&desc=Made+with+%E2%9D%A4%EF%B8%8F+by+Mohamed+Elshafey&descColor=00d2ff&descAlignY=80&animation=fadeIn" width="100%"/>
