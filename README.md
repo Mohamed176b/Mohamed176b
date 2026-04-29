@@ -6,10 +6,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:0a3d62,100:00d2ff&height=200&section=header&text=Mohamed%20Elshafey&fontSize=50&fontColor=00d2ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web%20Dev%20Manager&descColor=7fffd4&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/Mohamed176b">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+Initializing+Mohamed.exe...+%E2%9C%93;%3E+Full+Stack+MEAN+Developer+%7C+Web+Dev+Manager;%3E+Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--  SNAKE CONTRIBUTION ANIMATION -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00D2FF&center=true&width=500&lines=%3E+FEEDING+THE+CONTRIBUTION+SNAKE+%F0%9F%90%8D" alt="snake header"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamed176b/Mohamed176b/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamed176b/Mohamed176b/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Mohamed176b/Mohamed176b/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
 
 <br/>
 
@@ -42,7 +57,7 @@
 ◈══════════════════════════════════════◈
   USER    : Mohamed Elshafey
   ROLE    : Web Development Manager
-  STACK   : Full Stack MEAN Developer
+  STACK   : Full Stack MERN Developer
   COMPANY : SHAZMLC
   LOCATION: UAE, Dubai 🌍
   MISSION : Crafting scalable, SEO-
@@ -205,25 +220,7 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--  SNAKE CONTRIBUTION ANIMATION -->
-<!-- ══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00D2FF&center=true&width=500&lines=%3E+FEEDING+THE+CONTRIBUTION+SNAKE+%F0%9F%90%8D" alt="snake header"/>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamed176b/Mohamed176b/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamed176b/Mohamed176b/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Mohamed176b/Mohamed176b/output/github-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--  CONNECT SECTION -->
