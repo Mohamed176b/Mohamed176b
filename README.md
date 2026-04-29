@@ -44,7 +44,7 @@
   ROLE    : Web Development Manager
   STACK   : Full Stack MEAN Developer
   COMPANY : SHAZMLC
-  LOCATION: Egypt 🌍
+  LOCATION: UAE, Dubai 🌍
   MISSION : Crafting scalable, SEO-
             friendly web experiences
   STATUS  : [■■■■■■■■■■] ONLINE 🟢
